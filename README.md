@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Paul Kurilov, a web developer from Folsom, USA. I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I very love startups and innovative technologies. I work mainly with web technologies such as React, JavaScript, Node.js, HTML, CSS and SCSS.
+
 <!--
 **paul-kurilov/paul-kurilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
